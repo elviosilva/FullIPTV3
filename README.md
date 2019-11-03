@@ -1,3 +1,3 @@
 # FullIPTV3
 
-wget https://github.com/elviosilva/FullIPTV3/blob/master/install.sh && chmod +x install.sh && ./install.sh
+git clone https://github.com/elviosilva/FullIPTV3/ && cd /FullIPTV3 && chmod +x install.sh && ./install.sh
